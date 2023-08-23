@@ -28,7 +28,7 @@
 
 ***Wealthsimple*** is a Canadian online investment management service and was incorporated on September 23, 2014. It was founded by **Michael Katchen**
 
-Katchen worked for *1000Memories*, a Silicon Valley-based startup. After *Ancestry.com* bought 1000Memories in 2012, Katchen developed a spreadsheet with tips to help his colleagues set up investment portfolios. Interest in the spreadsheet helped inspire the idea for Wealthsimple.
+Katchen worked for *1000Memories*, a Silicon Valley-based startup. After *Ancestry.com* bought the company in 2012, Katchen developed a spreadsheet with tips to help his colleagues set up private investments. Interest in the spreadsheet helped inspire the idea for Wealthsimple.
 
 Wealthsimple makes money via management fees, currency conversion fees, operations fees, additional services, interest on cash, as well as interchange fees. They've raised <span style= 'color: lime;'> $1.1b (CA) </span>  as of May 2021.
 
