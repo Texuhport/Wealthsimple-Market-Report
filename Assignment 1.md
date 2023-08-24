@@ -119,6 +119,7 @@ Sources
 
 <br/>
 <br/>
+<div align="center">
 
 | **Key Metric** | **Wealthsimple** | **TD** | **BMO** | **Tangerine** |
 | -------------- | ---------------- | ------ | ------- | --------------|
@@ -126,9 +127,11 @@ Sources
 |*Assets Under Management (2023)*| C$17.5 billion | $397 billion US | C$321.5 billion | C$40 billion
 |*Number of Users (2023)*| 3 million + | 27.5 million + |  12 Million+ | 2 million +
 |*Valuation*| C$2.1 billion | C$113.49 billion | C$59.54 billion | Undetermined |
+</div>
+<br/>
+<br/>
 
 <div class="sources">
-
 Sources
 
 [Pros vs Cons; Wealthsimple analysis](https://www.moneysense.ca/save/investing/wealthsimple-trade-review/)
@@ -145,14 +148,11 @@ Sources
 
 [Yahoo Finance -TD](https://finance.yahoo.com/quote/TD/key-statistics/)
 
-
-
-
 </div>
 
 ## Recommendations
 
-Like I mentioned before, Wealthsimple does not cover the loan, credit or advance markets and I believe that's a good idea because their wealth building brand means they shouldn't be associated with any kind of debt. However I would suggest going further in the opposite direction. Debt management is an industtry that's lacking the cutting-edge, big data resources that other fintech domains already have. Increasing credit score, managing bills, budgeting and more could be applied to the current ecosystem to make wealthsimple the perfect gateway for abandoning traditional banking completetely. To make this happen Wealthsimple will utilize their massive data processing capabilities to build similar predictive models for debt as they do for investment. This model could identify things like amount owed, minimum payments required, ideal payment window, burn rate, how long till a user is out of money and more.
+Like I mentioned before, Wealthsimple does not cover the loan, credit or advance markets and I believe that's a good idea because their wealth building brand means they shouldn't be associated with any kind of debt. However I would suggest going further in the opposite direction. Debt management is an industry that's lacking the cutting-edge, big data resources that other fintech domains already have. Increasing credit score, managing bills, budgeting and more could be applied to the current ecosystem to make wealthsimple the perfect gateway for abandoning traditional banking completetely. To make this happen Wealthsimple will utilize their massive data processing capabilities to build similar predictive models for debt as they do for investment. This model could identify things like amount owed, minimum payments required, ideal payment window, burn rate, how long till a user is out of money and more.
 
 
 <div class="sources">
@@ -173,7 +173,13 @@ Formatting Sources
 
 [Span Tag](https://www.w3schools.com/tags/tag_span.asp)
 
+[Changing Style Of A Specific Text Excerpt](https://bobbyhadz.com/blog/markdown-change-color-of-text)
+
 [Creating Tables(shorthand)](https://www.codecademy.com/resources/docs/markdown/tables)
+
+[How To Center A Table](https://markdown.land/markdown-center)
+
+[Add Images In Markdown](https://www.digitalocean.com/community/tutorials/markdown-markdown-images)
 
 [Creating A New Line](https://stackoverflow.com/questions/33191744/how-to-add-new-line-in-markdown-presentation)
 
